@@ -4,7 +4,7 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) { 
         
- 
+  
    HashMap<Integer,Integer> fmap=new HashMap<>();
     List<Integer> ans=new ArrayList<>();
 
