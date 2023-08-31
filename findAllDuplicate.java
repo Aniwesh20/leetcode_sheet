@@ -2,7 +2,7 @@
 //leetcode-442
 
 class Solution {
-    public List<Integer> findDuplicates(int[] nums) {
+    public List<Integer> findDuplicates(int[] nums) { 
         
 
    HashMap<Integer,Integer> fmap=new HashMap<>();
