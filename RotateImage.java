@@ -1,6 +1,6 @@
 //LEETCODE-48.
 
-class Solution {
+class  Solution {
     public void rotate(int[][] matrix)           {
         int n = matrix[0].length;
         // calculate the range which should rotate
